@@ -92,6 +92,7 @@ Database structure and data exported using `mysqldump`.
 
 ```bash
 mysqldump -u root -p your_database_name > your_database_name_backup.sql
+```
 ![Database Export](Screenshots/09-mysqldump.png)
 
 ###### Conclusion
